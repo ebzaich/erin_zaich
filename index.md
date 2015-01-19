@@ -32,7 +32,7 @@ title: Erin Zaich
 
 - [Minecraft Missions](https://www.youtube.com/watch?v=GXAPpxU45W8)
 
-- [ADE, One Best Thing]()
+- [ADE, One Best Thing](https://itunes.apple.com/us/book/ipad-enhanced-geometry-teaching/id847532998?mt=11)
 
 ### Tutorials
 
@@ -47,6 +47,8 @@ title: Erin Zaich
 - [Setting up your Google Drive](http://www.youtube.com/playlist?list=PL5D13C46729F713BD)
 
 - [Blogger How To](http://www.youtube.com/playlist?list=PL56432AF3E3FD5A21)
+
+- [Word Journeys on the iPad](https://www.youtube.com/watch?v=_HVGXR00lbU)
 
 
 ### Websites
